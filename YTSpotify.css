@@ -1,0 +1,9 @@
+.logo.ytmusic-logo {
+    height: 35px;
+    object-position: left;
+    object-fit: cover;
+    width: 38px;
+}
+yt-icon-button#guide-button {
+    display: none;
+}
